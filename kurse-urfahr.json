@@ -1,5 +1,5 @@
 [
-    {
+  {
     "titel": "Pilates",
     "datum": "2025-04-18",
     "zeit": "08:00",
@@ -252,11 +252,25 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Pilates",
+    "datum": "2025-05-02",
+    "zeit": "08:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2025-05-05",
     "zeit": "09:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2025-05-05",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -271,6 +285,20 @@
     "zeit": "18:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "HIIT",
+    "datum": "2025-05-05",
+    "zeit": "19:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit"
+  },
+  {
+    "titel": "Ganzkörper",
+    "datum": "2025-05-06",
+    "zeit": "08:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -315,6 +343,20 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
+    "titel": "Six Pack",
+    "datum": "2025-05-07",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2025-05-08",
+    "zeit": "09:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2025-05-08",
     "zeit": "10:00",
@@ -334,6 +376,13 @@
     "zeit": "17:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2025-05-08",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
   },
   {
     "titel": "Happy 30",
@@ -364,6 +413,13 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
+    "titel": "Golden Girls",
+    "datum": "2025-05-12",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2025-05-12",
     "zeit": "17:00",
@@ -376,328 +432,6 @@
     "zeit": "18:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-13",
-    "zeit": "11:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-13",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-13",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-14",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-14",
-    "zeit": "16:15",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-14",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-15",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-15",
-    "zeit": "15:30",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-15",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-16",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-16",
-    "zeit": "12:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-16",
-    "zeit": "16:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-19",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-19",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-19",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-20",
-    "zeit": "11:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-20",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-20",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-21",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-21",
-    "zeit": "16:15",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-21",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-22",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-22",
-    "zeit": "15:30",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-22",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-23",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-23",
-    "zeit": "12:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-23",
-    "zeit": "16:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-26",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-26",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-26",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-27",
-    "zeit": "11:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-27",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-27",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-28",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-28",
-    "zeit": "16:15",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-28",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-29",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-29",
-    "zeit": "15:30",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-29",
-    "zeit": "17:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-30",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-30",
-    "zeit": "12:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-05-30",
-    "zeit": "16:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2025-05-05",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2025-05-12",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2025-05-19",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2025-05-26",
-    "zeit": "10:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
     "titel": "Stepper",
@@ -707,25 +441,144 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
   },
   {
-    "titel": "Ganzkörper",
-    "datum": "2025-05-26",
-    "zeit": "19:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
-  },
-  {
-    "titel": "Ganzkörper",
-    "datum": "2025-05-06",
-    "zeit": "08:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
-  },
-  {
     "titel": "Six Pack",
     "datum": "2025-05-13",
     "zeit": "08:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-13",
+    "zeit": "11:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-13",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-13",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-14",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-14",
+    "zeit": "16:15",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-14",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Six Pack",
+    "datum": "2025-05-14",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-15",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-15",
+    "zeit": "15:30",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-15",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2025-05-16",
+    "zeit": "08:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-16",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-16",
+    "zeit": "12:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-16",
+    "zeit": "16:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-19",
+    "zeit": "09:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2025-05-19",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-19",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-19",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "HIIT",
+    "datum": "2025-05-19",
+    "zeit": "19:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit"
   },
   {
     "titel": "Oberkörper",
@@ -735,39 +588,46 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/starke-arme-und-schultern"
   },
   {
-    "titel": "Stepper",
-    "datum": "2025-05-27",
-    "zeit": "08:00",
+    "titel": "Happy 30",
+    "datum": "2025-05-20",
+    "zeit": "11:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "HIIT",
-    "datum": "2025-05-05",
-    "zeit": "19:00",
+    "titel": "Happy 30",
+    "datum": "2025-05-20",
+    "zeit": "17:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "HIIT",
-    "datum": "2025-05-19",
-    "zeit": "19:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit"
-  },
-  {
-    "titel": "Six Pack",
-    "datum": "2025-05-07",
+    "titel": "Happy 30",
+    "datum": "2025-05-20",
     "zeit": "18:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Six Pack",
-    "datum": "2025-05-14",
-    "zeit": "18:00",
+    "titel": "Happy 30",
+    "datum": "2025-05-21",
+    "zeit": "10:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-21",
+    "zeit": "16:15",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-21",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
     "titel": "Six Pack",
@@ -777,46 +637,32 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
   },
   {
-    "titel": "Six Pack",
-    "datum": "2025-05-28",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-05-02",
-    "zeit": "08:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-05-08",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-05-08",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-05-16",
-    "zeit": "08:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
     "titel": "Pilates",
     "datum": "2025-05-22",
     "zeit": "09:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-22",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-22",
+    "zeit": "15:30",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-22",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
     "titel": "Pilates",
@@ -826,10 +672,164 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
   },
   {
+    "titel": "Happy 30",
+    "datum": "2025-05-23",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-23",
+    "zeit": "12:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-23",
+    "zeit": "16:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-26",
+    "zeit": "09:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2025-05-26",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-26",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-26",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Ganzkörper",
+    "datum": "2025-05-26",
+    "zeit": "19:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
+  },
+  {
+    "titel": "Stepper",
+    "datum": "2025-05-27",
+    "zeit": "08:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-27",
+    "zeit": "11:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-27",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-27",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-28",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-28",
+    "zeit": "16:15",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-28",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Six Pack",
+    "datum": "2025-05-28",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-29",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-29",
+    "zeit": "15:30",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-29",
+    "zeit": "17:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
     "titel": "Pilates",
     "datum": "2025-05-30",
     "zeit": "08:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-30",
+    "zeit": "10:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-30",
+    "zeit": "12:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-05-30",
+    "zeit": "16:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   }
 ]
