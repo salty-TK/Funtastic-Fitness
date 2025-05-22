@@ -308,13 +308,6 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung & Stabilisierung",
-    "datum": "2025-06-04",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
-  },
-  {
     "titel": "Rückenfit",
     "datum": "2025-06-04",
     "zeit": "18:00",
@@ -425,13 +418,6 @@
     "zeit": "17:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Mobilisierung & Stabilisierung",
-    "datum": "2025-06-11",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
   },
   {
     "titel": "Rückenfit",
@@ -581,13 +567,6 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung & Stabilisierung",
-    "datum": "2025-06-18",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
-  },
-  {
     "titel": "Rückenfit",
     "datum": "2025-06-18",
     "zeit": "18:00",
@@ -698,6 +677,13 @@
     "zeit": "17:00",
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Rücken Fit",
+    "datum": "2025-06-25",
+    "zeit": "18:00",
+    "adresse": "Hauptstraße 83/85, 4040 Linz",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/rueckenfit"
   },
   {
     "titel": "Yoga",
